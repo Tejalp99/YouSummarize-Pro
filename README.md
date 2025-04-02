@@ -22,4 +22,4 @@ This project is an AI-powered web application that extracts metadata and transcr
 ### Prerequisites
 Ensure you have Python 3.9+ installed.
 ### Step 1: Clone the Repository
-<pre> ``` https://github.com/Tejalp99/YouSummarize-Pro.git  ```<pre>
+``` https://github.com/Tejalp99/YouSummarize-Pro.git  ```
