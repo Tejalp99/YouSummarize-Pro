@@ -26,32 +26,41 @@ This project is an AI-powered web application that extracts metadata and transcr
 Ensure you have Python 3.9+ installed.
 
 ### Step 1: Clone the Repository
-``` bash https://github.com/Tejalp99/YouSummarize-Pro.git  ```
+``` bash 
+https://github.com/Tejalp99/YouSummarize-Pro.git
+```
 
 ### Step 2: Set up a virtual environment:
-``` bash python -m venv venv
+``` bash
+python -m venv venv
 source venv/bin/activate  # On macOS/Linux
 venv\Scripts\activate     # On Windows
 ```
 
 ### Step 3: Install required dependencies:
-``` bash pip install -r requirements.txt```
+``` bash 
+pip install -r requirements.txt
+```
 
 ### Step 4: Set up environment variables:
 Create a .env file in the root of the project and add your OpenAI API key:
 
-``` bash OPENAI_API_KEY=your_openai_api_key```
+``` bash 
+OPENAI_API_KEY=your_openai_api_key
+```
 
 ## Usage
 1. Run the Streamlit app:
-   ``` bash streamlit run app.py ```
+   ``` bash
+   streamlit run app.py
+   ```
 
-2. In the app, you can:
+3. In the app, you can:
    - Enter a YouTube video URL to summarize.
    - Use a search query to fetch a YouTube video and summarize it.
    - Select the language for the summary (English, Spanish, Hindi).
 
-3. Once the video is loaded, the title, channel name, transcript, thumbnail, and summary will be displayed.
+4. Once the video is loaded, the title, channel name, transcript, thumbnail, and summary will be displayed.
 
 ## File Structure
 ``` bash
