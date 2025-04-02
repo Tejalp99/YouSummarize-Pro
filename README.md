@@ -1,5 +1,7 @@
-![youtube-logo-hd-8-1024x768](https://github.com/user-attachments/assets/89f4b855-149a-4038-8eb1-ca9fb1757f34) 
 # YouSummarize-Pro: Automated YouTube Video Summarization
+
+
+![youtube-logo-hd-8-1024x768](https://github.com/user-attachments/assets/89f4b855-149a-4038-8eb1-ca9fb1757f34) 
 
 ## Project Overview
 This project is an AI-powered web application that extracts metadata and transcribes YouTube videos, then generates concise summaries using OpenAI's GPT model. Built with Streamlit, it provides users with a quick and efficient way to grasp the core ideas of long-form video content without watching the entire video.
