@@ -1,4 +1,4 @@
-# [YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)YouSummarize-Pro: Automated YouTube Video Summarization
+# (https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)YouSummarize-Pro: Automated YouTube Video Summarization
 
 ## Project Overview
 This project is an AI-powered web application that extracts metadata and transcribes YouTube videos, then generates concise summaries using OpenAI's GPT model. Built with Streamlit, it provides users with a quick and efficient way to grasp the core ideas of long-form video content without watching the entire video.
