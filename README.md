@@ -21,5 +21,12 @@ This project is an AI-powered web application that extracts metadata and transcr
 ## Installation
 ### Prerequisites
 Ensure you have Python 3.9+ installed.
+
 ### Step 1: Clone the Repository
 ``` https://github.com/Tejalp99/YouSummarize-Pro.git  ```
+
+### Step 2: Set up a virtual environment:
+'''bash python -m venv venv
+source venv/bin/activate  # On macOS/Linux
+venv\Scripts\activate     # On Windows
+'''
