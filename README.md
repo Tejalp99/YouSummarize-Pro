@@ -26,7 +26,7 @@ Ensure you have Python 3.9+ installed.
 ``` https://github.com/Tejalp99/YouSummarize-Pro.git  ```
 
 ### Step 2: Set up a virtual environment:
-'''bash python -m venv venv
+``` bash python -m venv venv
 source venv/bin/activate  # On macOS/Linux
 venv\Scripts\activate     # On Windows
-'''
+``` 
